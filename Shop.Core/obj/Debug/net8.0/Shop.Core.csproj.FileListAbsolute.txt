@@ -1,0 +1,15 @@
+C:\Users\MAQA\ShopEF\Shop.Core\bin\Debug\net8.0\Shop.Core.deps.json
+C:\Users\MAQA\ShopEF\Shop.Core\bin\Debug\net8.0\Shop.Core.runtimeconfig.json
+C:\Users\MAQA\ShopEF\Shop.Core\bin\Debug\net8.0\Shop.Core.dll
+C:\Users\MAQA\ShopEF\Shop.Core\bin\Debug\net8.0\Shop.Core.pdb
+C:\Users\MAQA\ShopEF\Shop.Core\obj\Debug\net8.0\Shop.Core.csproj.AssemblyReference.cache
+C:\Users\MAQA\ShopEF\Shop.Core\obj\Debug\net8.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAQA\ShopEF\Shop.Core\obj\Debug\net8.0\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\MAQA\ShopEF\Shop.Core\obj\Debug\net8.0\Shop.Core.AssemblyInfo.cs
+C:\Users\MAQA\ShopEF\Shop.Core\obj\Debug\net8.0\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\MAQA\ShopEF\Shop.Core\obj\Debug\net8.0\Shop.Core.sourcelink.json
+C:\Users\MAQA\ShopEF\Shop.Core\obj\Debug\net8.0\Shop.Core.dll
+C:\Users\MAQA\ShopEF\Shop.Core\obj\Debug\net8.0\refint\Shop.Core.dll
+C:\Users\MAQA\ShopEF\Shop.Core\obj\Debug\net8.0\Shop.Core.pdb
+C:\Users\MAQA\ShopEF\Shop.Core\obj\Debug\net8.0\Shop.Core.genruntimeconfig.cache
+C:\Users\MAQA\ShopEF\Shop.Core\obj\Debug\net8.0\ref\Shop.Core.dll

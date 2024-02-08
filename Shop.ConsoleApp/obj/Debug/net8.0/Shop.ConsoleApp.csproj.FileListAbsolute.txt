@@ -1,0 +1,6 @@
+C:\Users\MAQA\ShopEF\Shop.ConsoleApp\obj\Debug\net8.0\Shop.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\MAQA\ShopEF\Shop.ConsoleApp\obj\Debug\net8.0\Shop.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAQA\ShopEF\Shop.ConsoleApp\obj\Debug\net8.0\Shop.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\MAQA\ShopEF\Shop.ConsoleApp\obj\Debug\net8.0\Shop.ConsoleApp.AssemblyInfo.cs
+C:\Users\MAQA\ShopEF\Shop.ConsoleApp\obj\Debug\net8.0\Shop.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\MAQA\ShopEF\Shop.ConsoleApp\obj\Debug\net8.0\Shop.ConsoleApp.sourcelink.json
